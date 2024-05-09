@@ -17,8 +17,8 @@ I'm really good at making data easy to understand, even for folks who aren't exp
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
   <a href="https://aws.amazon.com/fr/what-is/sql/#:~:text=Structured%20query%20language%20(SQL)%20is%20a%20standard%20language%20for%20database,program%20that%20uses%20SQL%20queries.g" target="_blank" rel="noreferrer"><img     src="https://db.cs.uni-tuebingen.de/teaching/ws2223/sql-is-a-programming-language/logo.svg" width="36" height="36" alt="SQL" /></a>
-  <a href="https://www.sas.com/en_ie/home.html" target="_blank" rel="noreferrer"><img     src="https://betanews.com/wp-content/uploads/media/29/2999.jpg" width="36" height="36" alt="SAS" /></a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/visual-basic/" target="_blank" rel="noreferrer"><img src="https://media.licdn.com/dms/image/D4D12AQGTQ6a9BvvEAA/article-cover_image-shrink_720_1280/0/1675951891005?e=2147483647&v=beta&t=sVXZc-MdZl_g1IaSjJfTXNXJ9Ctjf_uLGZFVYyOX7g0" width="36" height="36" alt="VBA" /></a>
+  <a href="https://www.sas.com/en_ie/home.html" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/file-type-sas-icon-256x256-279vjfmo.png" width="36" height="36" alt="SAS" /></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/visual-basic/" target="_blank" rel="noreferrer"><img src="https://media.licdn.com/dms/image/D4D12AQE2wVSdMp065A/article-cover_image-shrink_600_2000/0/1666357353261?e=2147483647&v=beta&t=mzhj6L4Nh2l7TWHXvPN-FBPDJ_qG-HFVnStEsiWrvfo" width="36" height="36" alt="VBA" /></a>
 </p>
   
 
