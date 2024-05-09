@@ -8,6 +8,7 @@ I'm really good at making data easy to understand, even for folks who aren't exp
 * 🌍  I'm based in London, united kingdom
 * ✉️  You can contact me at [morgan2509@live.fr](mailto:morgan2509@live.fr)
 * 🧠  I'm learning everything about Data Science
+* 🤝  I'm open to collaborating on exciting projects as a data analyst/BI
 * ⚡  Fun fact: I'am a travel addict
 
 ## Skills
