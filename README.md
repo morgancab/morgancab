@@ -2,11 +2,6 @@
 
 I am a data analyst specialist, I bring a wealth of experience and knowledge in the field of data science. I am working for Amazon as a BIE, where I am devoloping tools that are used bu other teams.
 
-**My Research Interest**:
-- Data analyse
-- Visualisation
-- Prediction
-
 - ## Skills:
 
 #### Languages:
