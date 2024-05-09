@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, I'm [Morgan Cabedoche](https://morgancab.github.io/) 👋
 
-<!--
-**morgancab/morgancab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a data analyst specialist, I bring a wealth of experience and knowledge in the field of data science. I am working for Amazon as a BIE, where I am devoloping tools that are used bu other teams.
 
-Here are some ideas to get you started:
+**My Research Interest**:
+- Data analyse
+- Visualisation
+- Prediction
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ## Skills:
+
+#### Languages:
+
+![R](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
