@@ -5,7 +5,7 @@ Hi there! I'm Morgan, a data expert. I've spent lots of time learning about data
 
 I'm really good at making data easy to understand, even for folks who aren't experts. I'm careful about getting all the details right, and I always try to do the best job I can. I'm excited to learn even more and help solve problems using data. If you've got any questions or want to chat about working together, just give me a shout. Thanks!
 
-* 🌍  I'm based in London, united kingdom
+* 🌍  I'm based in London, United Kingdom
 * ✉️  You can contact me at [morgan2509@live.fr](mailto:morgan2509@live.fr)
 * 🧠  I'm learning everything about Data Science
 * 🤝  I'm open to collaborating on exciting projects as a data analyst/BI
